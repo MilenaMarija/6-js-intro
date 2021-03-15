@@ -1,0 +1,7 @@
+/*
+
+FOR LOOP (ciklas):
+
+for () {}
+
+*/
