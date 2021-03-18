@@ -28,3 +28,16 @@ console.log(dvigubaVienguba);
 // Max saugumas dviguba (") ir vienguba (') kabutes.
 const maxKabutes2 = "Max saugumas dviguba (\") ir vienguba (\') kabutes."
 console.log(maxKabutes2);
+
+
+
+
+
+const navHTML = '<nav>\
+                    <a href="#">Link</a>\
+                    <a href="#">Link</a>\
+                    <a href="#">Link</a>\
+                    <a href="#">Link</a>\
+                </nav>';
+console.log(navHTML);
+
