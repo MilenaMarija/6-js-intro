@@ -120,22 +120,18 @@ if (process === 1) {
 switch (process) {
     case 1:
         console.log('paimti puodeli..');
-        break;
     case 2:
         console.log('isideti arbatos..');
-        break;
     case 3:
         console.log('istirpinti saldikli..');
-        break;
     case 4:
         console.log('isipilti vandens..');
-        break;
     case 5:
         console.log('ismaisyti..');
-        break;
     case 6:
-        console.log('paimti puodeligerti..');
+        console.log('gerti..');
         break;
+        
     default:
         console.log('Jau viska sekmingai atlikai..');
 }
