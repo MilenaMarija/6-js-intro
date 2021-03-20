@@ -101,3 +101,41 @@ if (day === 1 || day === 2 || day === 3 || day === 4 || day === 5) {
 }
 console.log('---------------');
 
+const process = 3;
+
+if (process === 1) {
+    console.log('paimti puodeli');
+} else if (process === 2) {
+    console.log('isideti arbatos');
+} else if (process === 3) {
+    console.log('istirpinti saldikli');
+} else if (process === 4) {
+    console.log('isipilti vandens');
+} else if (process === 5) {
+    console.log('ismaisyti');
+} else if (process === 6) {
+    console.log('gerti');
+}
+
+switch (process) {
+    case 1:
+        console.log('paimti puodeli..');
+        break;
+    case 2:
+        console.log('isideti arbatos..');
+        break;
+    case 3:
+        console.log('istirpinti saldikli..');
+        break;
+    case 4:
+        console.log('isipilti vandens..');
+        break;
+    case 5:
+        console.log('ismaisyti..');
+        break;
+    case 6:
+        console.log('paimti puodeligerti..');
+        break;
+    default:
+        console.log('Jau viska sekmingai atlikai..');
+}
