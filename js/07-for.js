@@ -30,3 +30,8 @@ zodis += abc[abcIndex++];
 console.log(zodis);
 
 console.log('---------');
+const marks = [5, 7, 10, 4, 2, 10]; 
+
+for (let i = 0; i < marks.length; i++) {
+    console.log(marks[i]);
+} 
