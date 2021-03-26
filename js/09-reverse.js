@@ -6,35 +6,20 @@ pvz.: “abcdef” -> “fedcba”
 const text = 'abcdef';
 let reverse = '';
 
-for (let i = 0; i < 5; i++) {
-    console.log(i);
+for (let i = 0; i < text.length; i++) {
+    reverse = text[i] + reverse;
 }
 
+console.log(text, '->', reverse);
 
+// for (let i = 0; i < text.length; i++) {
+//     reverse += text[text.length - 1 - i];
+// }
 
+// for (let i = text.length - 1; i >= 0; i--) {
+//     reverse += text[i];
+// }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const text = 'abcdef';
-
-function reverseString(text) {
-    reverse = '';
-
-    for (let i = 0; i < text.length; i++) {}
-}
+// for (let i = text.length; i > 0; i--) {
+//     reverse += text[i - 1];
+// }
