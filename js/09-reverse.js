@@ -1,5 +1,5 @@
 /*
-2. panaudojant ciklą perrašyti tekstinio tipo kintamųjų reikšmes iš kito galo:
+2. panaudojant ciklą for perrašyti tekstinio tipo kintamųjų reikšmes iš kito galo:
 pvz.: “abcdef” -> “fedcba”
 */
 

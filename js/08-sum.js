@@ -1,4 +1,4 @@
-/*
+/* Ciklo for panaudojimas
 1. Suskaičiuoti ką gausime susumavus skaičius intervale tarp (imtinai):
 
 a. 0 - 0        = 0

@@ -1,4 +1,4 @@
-/*
+/* Ciklo for panaudojimas
 Suskaičiuoti, kiek nurodytame intervale yra skaičių, kurie dalijasi be liekanos iš 3, 5 ir 7 atskirai:
 
 rezultatą pateikti tokiu formatu:
