@@ -12,7 +12,7 @@ d. ESTAS:
 
 
 function tusciaFunkcija() {
-    return undefined;
+    return false;
 }
 
 console.log(tusciaFunkcija());
